@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://yna-ios.github.io/mnldist/NewsLeaderPROD.ipa</string>
+					<string>https://yna-ios.github.io/mnlforios/NewsLeaderPROD.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://yna-ios.github.io/mnldist/NewsLeaderPROD.png</string>
+					<string>https://yna-ios.github.io/mnlforios/NewsLeaderPROD.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://yna-ios.github.io/mnldist/NewsLeaderPROD.png</string>
+					<string>https://yna-ios.github.io/mnlforios/NewsLeaderPROD.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
